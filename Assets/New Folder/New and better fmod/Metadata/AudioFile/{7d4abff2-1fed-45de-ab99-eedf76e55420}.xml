@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7d4abff2-1fed-45de-ab99-eedf76e55420}">
+		<property name="assetPath">
+			<value>New_Recording_12.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>16</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>10.944000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{448a3b26-35d9-4100-bc94-d462e072ceeb}</destination>
+		</relationship>
+	</object>
+</objects>

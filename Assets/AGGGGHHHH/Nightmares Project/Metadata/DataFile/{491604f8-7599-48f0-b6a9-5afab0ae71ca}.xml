@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{491604f8-7599-48f0-b6a9-5afab0ae71ca}">
+		<property name="assetPath">
+			<value>New Folder/New_Recording_12.m4a</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6a657cc5-8f13-4939-843e-dbbfe18dcb34}</destination>
+		</relationship>
+	</object>
+</objects>

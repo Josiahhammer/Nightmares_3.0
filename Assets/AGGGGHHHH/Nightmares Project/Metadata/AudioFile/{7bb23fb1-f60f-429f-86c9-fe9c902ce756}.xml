@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7bb23fb1-f60f-429f-86c9-fe9c902ce756}">
+		<property name="assetPath">
+			<value>demon steps final.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.7999999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6a657cc5-8f13-4939-843e-dbbfe18dcb34}</destination>
+		</relationship>
+	</object>
+</objects>

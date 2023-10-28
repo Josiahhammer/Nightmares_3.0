@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8b07c8c1-01c1-4ed2-9821-9e2306b60fff}">
+		<property name="assetPath">
+			<value>Door Shut.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.2799999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6a657cc5-8f13-4939-843e-dbbfe18dcb34}</destination>
+		</relationship>
+	</object>
+</objects>
